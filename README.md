@@ -32,34 +32,34 @@ Good Luck. We’re counting on you!
     <p><strong>NOTES:</strong> Remember, prime numbers are only divisible by themselves or 1.</p>
 </li>
 
+<li><strong>Fibonacci Stock Trading</strong>
+    <p><strong>PROBLEM:</strong> Our stock traders have managed to break their trading consoles and no longer have access to the fibonacci sequence for their stock charts.</p>
+    <p><strong>TASK:</strong> Create a program that takes two integer parameters (start, X) and then returns X number of fibonacci numbers, starting from (and including) the start number passed.</p>
+    <p><strong>NOTES:</strong> Remember, the fibonacci sequence is the sum of the previous two numbers in the fibonacci list of numbers:</p>
+    <p><strong>Fn = Fn-1 + Fn-2</strong></p>
+</li>
 
-4)	Fibonacci Stock Trading
-PROBLEM: Our stock traders have managed to break their trading consoles and no longer have access to the fibonacci sequence for their stock charts.
+    <li><strong>Cashier Console</strong>
+        <p><strong>PROBLEM:</strong> Our ATMs (Cash Machines) are down for unscheduled maintenance. We need to give our cashiers a simple solution for updating customer balances interactively (add & subtract amounts).</p>
 
-TASK: Create a program that takes two integer parameters (start, X) and then returns X number of fibonacci numbers, starting from (and including) the start number passed.
+            <p><strong>TASK:</strong> Create an interactive program that takes an initial starting balance (customers have already been verified, so don’t worry about account numbers, etc) and gives our cashiers a simple console UI (User Interface) that asks if they want to add or subtract, before asking for the amount to apply.</p>
 
-NOTES: Remember, the fibonacci sequence is the sum of the previous two numbers in the fibonacci list of numbers: 
-Fn = Fn-1 + Fn-2
+                <p><strong>NOTES:</strong> You might want to consider what could go wrong and account for it in your solution.
+    i.e. Negative subtractions, Strings being passed instead of numbers, etc. Can you think of any more?</p>
+</li>
 
+<li><strong>Web Scraping Spider Bot</strong>
+    <p><strong>PROBLEM:</strong> Our market research team have been keeping tabs on some of our competitors, but have accidentally deleted one of their research documents containing some keyword analysis data! Whoops!</p>
 
-5)	Cashier Console
-PROBLEM: Our ATMs (Cash Machines) are down for unscheduled maintenance. We need to give our cashiers a simple solution for updating customer balances interactively (add & subtract amounts). 
+    <p><strong>TASK:</strong> Create a web scraper that takes the sample of website URLs provided and counts how many times each word in the given words list (also provided) occurs. Once you have got that working, re-engineer your solution to follow the first 5 links on the main URL, excluding the page being scraped. Output to the console; the name of the site, followed by the list of words and the frequency at which they appear. If you can break this data down by each link followed, even better.</p>
 
-TASK: Create an interactive program that takes an initial starting balance (customers have already been verified, so don’t worry about account numbers, etc) and gives our cashiers a simple console UI (User Interface) that asks if they want to add or subtract, before asking for the amount to apply.
-
-NOTES: You might want to consider what could go wrong and account for it in your solution. 
-i.e. Negative subtractions, Strings being passed instead of numbers, etc. Can you think of any more?
-
-
-6)	Web Scraping Spider Bot
-PROBLEM: Our market research team have been keeping tabs on some of our competitors, but have accidentally deleted one of their research documents containing some keyword analysis data! Whoops!
-
-TASK: Create a web scraper that takes the sample of website URLs provided and counts how many times each word in the given words list (also provided) occurs. Once you have got that working, re-engineer your solution to follow the first 5 links on the main URL, excluding the page being scraped. Output to the console; the name of the site, followed by the list of words and the frequency at which they appear. If you can break this data down by each link followed, even better.
-
-NOTES: The lists being provided appear in your Visual Studio Solution as: 
--	“WebsiteURLs.txt”
--	“WordsList.txt”
-
+    <p><strong>NOTES:</strong> The lists being provided appear in your Visual Studio Solution as:</p>
+    <ul>
+        <li>&quot;WebsiteURLs.txt&quot;</li>
+        <li>&quot;WordsList.txt&quot;</li>
+    </ul>
+</li>
+</ol>
 
 If you get really stuck, don’t be afraid to ask one of our floating Developers to point you in the right direction. Though, they won’t be able to completely solve the tasks for you… that’s YOUR JOB!
 
