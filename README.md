@@ -2,34 +2,35 @@
 
 Congratulations!
 
-You’ve been chosen as one the latest Technical Contractors for Bank Tech Anywhere Ltd! We’ve heard great things about you! 
+You’ve been chosen as one the latest Technical Contractors for Bank Tech Anywhere Ltd! We’ve heard great things about you!
 
-You will be responsible for building rapid prototypes of various programs (in Python or C#), fulfilling the needs of different teams across our banking company. The backlog is constantly growing to keep us at the forefront of the industry, so your immediate priorities are outlined below. To deliver maximum value to the business, pick the most challenging problem you think you can tackle over the next hour and see how far you can get! Focus on just one for now. You can always complete more when you’ve finished it. 
+You will be responsible for building rapid prototypes of various programs (in Python or C#), fulfilling the needs of different teams across our banking company. The backlog is constantly growing to keep us at the forefront of the industry, so your immediate priorities are outlined below. To deliver maximum value to the business, pick the most challenging problem you think you can tackle over the next hour and see how far you can get! Focus on just one for now. You can always complete more when you’ve finished it.
 
 Good Luck. We’re counting on you!
 
 
-1)	Call Centre SPAM
-PROBLEM: Our call centres are being inundated with automated SPAM messages from telemarketers. We already have tech that identifies the SPAM numbers and appends “SPAM” to the end of them as strings.
+<ol type="1">
+<li>
+    <strong>Call Centre SPAM</strong>
+    <p>
+    <p><strong>PROBLEM:</strong> Our call centres are being inundated with automated SPAM messages from telemarketers. We already have tech that identifies the SPAM numbers and appends &quot;SPAM&quot; to the end of them as strings.</p>
+    <p><strong>TASK:</strong> Write a program that reads each phone number in the sample list below and outputs to the console &quot;OK&quot; for phone numbers that AREN’T labelled as SPAM, or &quot;SPAM&quot; for phone numbers that ARE labelled as SPAM.</p>
+    <p><strong>SAMPLE DATA:</strong></p>
+    <p>&lt;Copy or Read directly from the file in your Visual Studio solution called &quot;PhoneList.txt&quot; &gt;</p>
+    </p>
+</li>
 
-TASK: Write a program that reads each phone number in the sample list below and outputs to the console “OK” for phone numbers that AREN’T labelled as SPAM, or “SPAM” for phone numbers that ARE labelled as SPAM.
-
-SAMPLE DATA: 
-<Copy or Read directly from the file in your Visual Studio solution called “PhoneList.txt”>
-
-
-2)	Keeping Track Of Criminals
-PROBLEM: Our criminal investigations unit needs to mark a number of bank notes with the same serial number to track a group of criminals. However, we don’t know how many notes need to be marked, nor what the serial number needs to be yet.
-
-TASK: Write a program that takes two parameters (one number (X), one string) and outputs the string to the console window X number of times.
+<li><strong>Keeping Track Of Criminals</strong>
+    <p><strong>PROBLEM:</strong> Our criminal investigations unit needs to mark a number of bank notes with the same serial number to track a group of criminals. However, we don’t know how many notes need to be marked, nor what the serial number needs to be yet.</p>
+    <p><strong>TASK:</strong> Write a program that takes two parameters (one number (X), one string) and outputs the string to the console window X number of times.</p>
+</li>
 
 
-3)	Cryptographic Primes
-PROBLEM: Our security department needs to improve their cryptographic hashing algorithms and need a specific collection of prime numbers for testing. That’s where you come in.
-
-TASK: Create a program that takes two integer parameters (start, end) and prints out all prime numbers in between them.
-
-NOTES: Remember, prime numbers are only divisible by themselves or 1.
+<li><strong>Cryptographic Primes</strong>
+    <p><strong>PROBLEM:</strong> Our security department needs to improve their cryptographic hashing algorithms and need a specific collection of prime numbers for testing. That’s where you come in.</p>
+    <p><strong>TASK:</strong> Create a program that takes two integer parameters (start, end) and prints out all prime numbers in between them.</p>
+    <p><strong>NOTES:</strong> Remember, prime numbers are only divisible by themselves or 1.</p>
+</li>
 
 
 4)	Fibonacci Stock Trading
