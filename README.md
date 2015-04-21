@@ -67,5 +67,5 @@ Again, Good luck. We know you’ll do great!
 
 Yours sincerely,
 
-Mr. B. Anchor
+Mr. B. Anchor <br/>
 Chief Technical Officer, Bank Tech Anywhere Ltd.
